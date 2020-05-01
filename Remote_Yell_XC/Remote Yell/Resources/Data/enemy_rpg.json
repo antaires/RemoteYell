@@ -1,0 +1,31 @@
+{
+	"dimensions": {
+		"width": 176,
+		"height": 176,
+		"cols": 10,
+		"rows": 1
+	},
+	"collision": {
+		"width": 80,
+		"height": 92,
+		"xOffset": 48,
+		"yOffset": 84
+	},
+	"animations": [
+		{
+			"index": 0,
+			"start": 0,
+			"count": 1
+		},
+		{
+			"index": 2,
+			"start": 1,
+			"count": 4
+		},
+		{
+			"index": 12,
+			"start": 5,
+			"count": 4
+		}
+	]
+}

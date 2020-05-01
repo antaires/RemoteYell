@@ -1,0 +1,81 @@
+{
+	"dimensions": {
+		"width": 136,
+		"height": 172,
+		"cols": 8,
+		"rows": 11
+	},
+	"collision": {
+		"width": 80,
+		"height": 120,
+		"xOffset": 32,
+		"yOffset": 52
+	},
+	"animations": [
+		{
+			"index": 0,
+			"start": 0,
+			"count": 6
+		},
+		{
+			"index": 1,
+			"start": 6,
+			"count": 8
+		},
+		{
+			"index": 2,
+			"start": 18,
+			"count": 2
+		},
+		{
+			"index": 3,
+			"start": 24,
+			"count": 8
+		},
+		{
+			"index": 4,
+			"start": 51,
+			"count": 8
+		},
+		{
+			"index": 5,
+			"start": 83,
+			"count": 2
+		},
+		{
+			"index": 6,
+			"start": 59,
+			"count": 8
+		},
+		{
+			"index": 7,
+			"start": 67,
+			"count": 8
+		},
+		{
+			"index": 8,
+			"start": 85,
+			"count": 2
+		},
+		{
+			"index": 9,
+			"start": 75,
+			"count": 8
+		},
+		{
+			"index": 10,
+			"start": 15,
+			"count": 1
+		},
+		{
+			"index": 11,
+			"start": 40,
+			"count": 2
+		},
+		{
+			"index": 12,
+			"start": 46,
+			"count": 5
+		}
+	]
+}
